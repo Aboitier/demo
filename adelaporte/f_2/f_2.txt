@@ -1,0 +1,1 @@
+git reflog >> panda | cat panda | head -n 1 | grep -E "^[0-9a-z]{7}"
