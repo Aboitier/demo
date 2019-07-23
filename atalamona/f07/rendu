@@ -1,0 +1,6 @@
+#!/bin/bash
+
+read A
+if [ $A == "Z" ]; then
+                echo "neat bruh"
+fi
