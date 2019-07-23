@@ -1,0 +1,6 @@
+#! /bin/bash
+
+# (sur ma machine bash ne se trouve pas dans /usr/bin/bash)
+
+# Cette ligne specifie a l'interpreteur le contexte dans lequel interpreter les commandes du script. ici, ce sera interprete avec la syntaxe du langage de script "bash"
+
