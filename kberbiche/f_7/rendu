@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+read c
+if [ $c = 'Z' ] ; then
+	echo "neat bruh"
+else
+	echo "beuhh bruh"
+fi
