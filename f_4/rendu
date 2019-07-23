@@ -1,0 +1,1 @@
+git reflog | tail -n1
