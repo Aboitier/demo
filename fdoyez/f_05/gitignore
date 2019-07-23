@@ -1,0 +1,4 @@
+*.o
+!/logs/folder
+/logs/folder/*
+!/logs/test

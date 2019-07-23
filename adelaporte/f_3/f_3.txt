@@ -1,0 +1,1 @@
+echo "we all love pasta alla carbonara con leche" | sed -E "s/[^aeiouy]//g" | sed -E "s/[aeiuouv]/1/g" | wc -c

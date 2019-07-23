@@ -1,0 +1,9 @@
+#!/bin/bash
+if [[ $1 == "" ]]
+then
+printf '%s\n%s\n' "USAGE: rendu will mask any lowercase character from its first parameter and replace it with an asterisk" "EXAMPLE:"
+printf '  prompt$ %s\n' "./rendu lvmdmAdsgxvBsCD"
+printf '  %s\n' "*****A*****B*CD"
+else
+printf '%s\n' "$1" |sed "s/[a-z]/*/g"
+fi
