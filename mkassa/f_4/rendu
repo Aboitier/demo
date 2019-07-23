@@ -1,1 +1,1 @@
-git reflog | tail -n1
+cp -r f_02/rendu f_04/

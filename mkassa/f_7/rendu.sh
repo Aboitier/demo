@@ -1,7 +1,7 @@
 #!/bin/bash
 read l
-if [ $l = 'Z' ] ; then
+if  [$l == 'Z']  ; then
         echo "neat bruh"
 else
-        echo $l
+        echo "saissez un Z"
 fi
