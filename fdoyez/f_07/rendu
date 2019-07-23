@@ -1,0 +1,7 @@
+!#!/bin/bash
+read var 
+if [$var == Z]
+then 
+ echo 'neat bruh'
+fi 
+
