@@ -1,3 +1,3 @@
 #!/bin/sh
-Hello world
+echo 'Hello world'
 #le but de ce shebang est de dire bonjour au monde entier, pour être poli. 
