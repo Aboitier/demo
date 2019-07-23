@@ -1,0 +1,1 @@
+printf "we all love pasta alla" | grep -o  -E [aeiouAEIUO] | wc -l

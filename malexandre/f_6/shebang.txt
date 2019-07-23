@@ -1,0 +1,2 @@
+#!shell
+shell utilisé pour exécuter le script
