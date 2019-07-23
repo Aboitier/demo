@@ -1,1 +1,1 @@
- git reflog show master@{0}
+$ git reflog --pretty='%h' HEAD@{0}
