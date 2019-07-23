@@ -1,0 +1,1 @@
+"#!/bin/sh" est une directive indiquant que le fichier de script doit être exécuté avec le Bourne Shell, ou un shell compatible, 
