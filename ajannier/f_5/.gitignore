@@ -1,0 +1,7 @@
+# ignore all .o files
+*.o
+
+# ignore all files in logs folder with the exception of the file logs/test
+!logs
+logs/*
+!logs/test
