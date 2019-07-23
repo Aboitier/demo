@@ -1,8 +1,8 @@
 !#!/bin/bash
 read var 
-if [$var =='Z'];
+if [ $var = 'Z' ];
 then 
  echo 'neat bruh'
-else echo "perdu" !
+else echo "perdu !"
 fi 
 
