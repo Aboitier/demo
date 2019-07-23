@@ -1,0 +1,1 @@
+git reflog | cut -c 1-7
