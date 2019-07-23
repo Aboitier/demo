@@ -3,6 +3,7 @@ read var
 if [ $var = 'Z' ];
 then 
  echo 'neat bruh'
-else echo "perdu !"
+else 
+ echo "perdu !"
 fi 
 
