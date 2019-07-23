@@ -4,3 +4,4 @@ if [ $input='Z' ]; then
 	echo "neat brush"
 else
 	exit
+fi
