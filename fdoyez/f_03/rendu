@@ -1,0 +1,2 @@
+#Il y en a 15
+grep -o [aeiouAEIOU] texte | wc -l
