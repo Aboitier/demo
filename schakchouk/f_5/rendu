@@ -1,0 +1,4 @@
+# ignore every file that end with .o :
+*.*o
+#ignore all files located in the logs/ folder except the logs/test
+!/logs/test

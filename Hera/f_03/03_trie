@@ -1,0 +1,1 @@
+grep -o [aouiey] find | wc -l

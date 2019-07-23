@@ -1,0 +1,1 @@
+echo "we all love pasta alla carbonara con leche" | grep -E -o [aeiou]*  |    wc -l
