@@ -2,13 +2,14 @@ Assessment.
 
 The goal of this exercise is to train your git skills along with neurally reconnecting some shell commands usage we spent time on last week.
 
-To start, you'll have to create a folder whose name will be the first letter of your surname and the rest of your last name. In my case, it'd have been aboitier. Just like it actually is on my git. 
+Here is the link of the repo that you have to clone to start: https://github.com/Aboitier/demo.git
+
+Once in the repo, you'll have to create a folder whose name will be the first letter of your surname and the rest of your last name. In my case, it'd have been aboitier. Just like it actually is on my git. 
 
 All the work will take place inside this folder.
 
 Then, for every question, you'll have to create a new sub-folder whose name will be comprised of "f_" followed by the question's number. For example, to answer the question 340, you will have to create the f_340 folder and put your file inside it. You can name your file rendu. 
 
-Here is the link of the repo that you have to clone to start: https://github.com/Aboitier/demo.git
 Don't forget to work in the repo since you'll have to push all your work. Only what's on the repo will be evaluated. 
 
 And there it started...
